@@ -1,0 +1,37 @@
+.container {
+	max-width: 980px;
+	width: 100%;
+	border: 1px solid #ccc;
+	padding: 25px;
+	margin: 0 auto;
+}
+
+ .rTable {
+ 	display: table;
+ 	width: 100%;
+ }
+
+ .rTableRow {
+ 	display: table-row;
+ 	width: 100%;
+ }
+
+ .rTableHead {
+ 	display: table-cell;
+ }
+
+ .rTableColumn {
+ 	display: table-cell;
+ }
+
+ .rTableHeading {
+ 	display: table-header-group;
+ }
+
+ .rTableBody {
+ 	display: table-row-group;
+ }
+
+ .rTableFooter {
+ 	display: table-footer-group;
+ }
